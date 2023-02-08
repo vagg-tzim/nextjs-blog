@@ -4,7 +4,7 @@ import Image from "next/image";
 import styles from "./layout.module.css";
 import utilStyles from "../../styles/utils.module.css";
 
-const name = "Vaggelis Tzimas";
+const name = "John Smith";
 export const siteTitle = "Next.js Sample Website";
 
 function HomeHeader() {
